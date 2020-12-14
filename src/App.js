@@ -98,7 +98,7 @@ const [query, setQuery] = useState('teeth')
 
             <div>
               <button className="btn btn-success btn-lg">
-                <a href="/">RANDOM</a>
+                <a href="https://hackster254.github.io/chucknorris-api/">RANDOM</a>
               </button>
             </div>
           </div>
