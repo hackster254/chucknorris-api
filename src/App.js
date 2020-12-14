@@ -94,14 +94,13 @@ const [query, setQuery] = useState('teeth')
                   GENERATE JOKE
                 </button>
               </div>
-              
             </form>
 
-              <div>
-                  <button className="btn btn-success btn-lg">
-                    RANDOM
-                  </button>
-              </div>
+            <div>
+              <button className="btn btn-success btn-lg">
+                <a href="/">RANDOM</a>
+              </button>
+            </div>
           </div>
         </div>
 
